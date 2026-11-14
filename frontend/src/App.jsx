@@ -27,7 +27,7 @@ function App() {
               <>
                 <Smiley />
                 <h1>Feeling curious?</h1>
-                <p>Do you want to be surprised?</p>
+                <p>Do you want to be surprised by Smajla?</p>
 
                 <div className="buttons">
                   <button onClick={() => setView('surprise')}>YES!</button>
