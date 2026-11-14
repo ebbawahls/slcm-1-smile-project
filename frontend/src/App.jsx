@@ -8,7 +8,7 @@ function App() {
   const [view, setView] = useState('home');
 
   return (
-    <main className="app"
+    <main className="app">
       <motion.div
         className="card"
         initial={{ opacity: 0, y: 30 }}
